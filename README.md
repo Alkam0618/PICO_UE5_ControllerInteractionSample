@@ -1,4 +1,4 @@
-# PICO Unreal Interaction Sample 
+# PICO Unreal Interaction Sample   
 
 - If you have any questions/comments, please visit [**Pico Developer Support Portal**](https://picodevsupport.freshdesk.com/support/home) and raise your question there.
 
@@ -11,7 +11,7 @@
 
 
 ## Description:
-  The sample implements functions as below:
+  The sample implements functions as below:  
 * Locomotion
 * Nearby grabbing by holding grip button
 * Long-distance grabbing by pressing and holdindg the left controller X, Y key
@@ -34,4 +34,4 @@
 
 
 ## Note:
-- This project integrates Pico Unreal Integration SDK 3.1.0 plugin for UE 5.3. If you are using other version Unreal engine, you will need to integrate the corresponding UE version plugin at [here.](https://developer.picoxr.com/zh/resources/#sdk)
+- This project integrates Pico Unreal Integration SDK 3.2.0 plugin for UE 5.5.4 If you are using other version Unreal engine, you will need to integrate the corresponding UE version plugin at [here.](https://developer.picoxr.com/zh/resources/#sdk)  
